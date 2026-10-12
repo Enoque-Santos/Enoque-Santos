@@ -1,5 +1,5 @@
 # Olá, eu sou o Enoque Santos 👋
-🚀 **Junior Software Engineer | Java & Backend Specialist in Training**  
+🚀 **Junior Software Developer | Java & Backend**  
 🇧🇷 Brasil
 
 Estou focado em construir soluções backend sólidas, aplicações desktop com Java Swing e APIs com Spring Boot.
