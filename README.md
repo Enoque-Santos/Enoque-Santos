@@ -25,8 +25,8 @@ Também dedico tempo para aprender na prática criando projetos reais e document
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Enoque-Santos&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Enoque-Santos&layout=compact&theme=tokyonight" />
+  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Enoque-Santos&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Enoque-Santos&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 ---
 
